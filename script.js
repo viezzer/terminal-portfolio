@@ -1,6 +1,6 @@
 // comandos disponíveis
 const commands = {
-  help: "Comandos disponíveis:\n- about\n- projects\n- contact\n- clear",
+  help: "Comandos disponíveis:\n- about\n- contact\n- clear",
   about: "Sou o Eduardo, analista e desenvolvedor de sistemas e produtor musical.\nApaixonado por criar soluções criativas.",
   contact: "📧 Email: eduviezzer@gmail.com\n👨‍💻 GitHub: github.com/viezzer\n🌐 Linkedin: https://www.linkedin.com/in/eduardo-viezzer-351247121/",
 };
